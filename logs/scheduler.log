@@ -1,0 +1,401 @@
+2023-08-07 17:42:35,233 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:43:35,338 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:44:35,464 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:44:35,482 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 17:44:35,601 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 17:44:35,650 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 17:44:35,723 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 17:44:35,758 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 17:44:35,880 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 17:44:35,915 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 17:44:36,014 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 17:44:36,051 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 17:44:36,159 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 17:44:36,194 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 17:44:36,282 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 17:45:35,599 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:45:35,627 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 17:45:35,735 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 17:45:35,771 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 17:45:35,894 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 17:45:35,935 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 17:45:36,047 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 17:46:35,710 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:47:35,839 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:48:35,966 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:48:35,985 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 17:48:36,061 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 17:48:36,097 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 17:48:36,179 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 17:48:36,215 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 17:48:36,334 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 17:48:36,369 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 17:48:36,464 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 17:48:36,501 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 17:48:36,613 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 17:48:36,654 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 17:48:36,749 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 17:49:36,039 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:50:36,145 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:51:36,282 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:52:36,410 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:52:36,429 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 17:52:36,510 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 17:52:36,555 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 17:52:36,644 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 17:52:36,692 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 17:52:36,844 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 17:52:36,894 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 17:52:37,002 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 17:52:37,041 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 17:52:37,159 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 17:52:37,199 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 17:52:37,292 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 17:53:36,547 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:54:36,665 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:55:36,777 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:56:36,897 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:56:36,916 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 17:56:36,991 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 17:56:37,024 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 17:56:37,096 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 17:56:37,129 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 17:56:37,246 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 17:56:37,279 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 17:56:37,372 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 17:56:37,407 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 17:56:37,507 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 17:56:37,542 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 17:56:37,622 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 17:57:37,013 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:58:37,112 DEBUG scheduler Queued events for site my-site
+2023-08-07 17:59:37,220 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:00:37,368 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for my-site
+2023-08-07 18:00:37,408 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:00:37,533 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for my-site
+2023-08-07 18:00:37,583 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for my-site
+2023-08-07 18:00:37,816 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for my-site
+2023-08-07 18:00:37,868 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for my-site
+2023-08-07 18:00:38,013 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for my-site
+2023-08-07 18:00:38,064 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for my-site
+2023-08-07 18:00:38,238 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for my-site
+2023-08-07 18:00:38,283 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for my-site
+2023-08-07 18:00:38,408 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for my-site
+2023-08-07 18:00:38,455 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for my-site
+2023-08-07 18:00:38,610 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for my-site
+2023-08-07 18:00:38,660 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for my-site
+2023-08-07 18:00:38,791 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for my-site
+2023-08-07 18:00:38,840 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for my-site
+2023-08-07 18:00:38,963 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for my-site
+2023-08-07 18:00:39,012 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:00:39,116 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:00:39,160 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:00:39,255 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:00:39,301 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:00:39,461 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:00:39,506 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:00:39,630 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:00:39,666 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:00:39,773 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:00:39,809 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:00:39,901 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:00:39,945 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 18:00:40,084 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 18:00:40,123 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 18:00:40,264 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 18:00:40,321 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 18:00:40,473 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 18:01:37,524 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:02:37,643 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:03:37,773 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:04:37,899 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:04:37,920 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:04:38,006 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:04:38,046 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:04:38,127 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:04:38,164 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:04:38,295 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:04:38,331 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:04:38,434 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:04:38,471 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:04:38,583 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:04:38,620 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:04:38,723 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:05:38,010 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:06:38,134 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:07:38,236 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:08:38,358 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:08:38,381 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:08:38,470 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:08:38,520 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:08:38,628 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:08:38,671 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:08:38,806 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:08:38,842 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:08:38,949 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:08:38,986 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:08:39,099 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:08:39,149 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:08:39,245 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:09:38,470 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:10:38,601 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:11:38,710 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:12:38,818 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:12:38,839 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:12:38,952 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:12:39,008 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:12:39,107 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:12:39,144 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:12:39,289 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:12:39,342 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:12:39,497 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:12:39,553 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:12:39,679 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:12:39,735 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:12:39,845 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:13:38,924 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:14:39,038 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:15:39,194 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:15:39,237 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 18:15:39,353 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 18:15:39,391 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 18:15:39,541 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 18:15:39,587 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 18:15:39,746 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 18:16:39,334 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:16:39,350 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:16:39,464 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:16:39,503 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:16:39,608 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:16:39,662 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:16:39,801 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:16:39,841 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:16:39,944 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:16:39,984 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:16:40,095 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:16:40,135 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:16:40,235 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:17:39,476 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:18:39,588 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:19:39,701 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:20:40,669 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:20:40,689 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:20:40,771 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:20:40,812 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:20:40,893 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:20:40,928 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:20:41,079 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:20:41,122 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:20:41,226 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:20:41,262 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:20:41,382 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:20:41,419 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:20:41,508 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:21:40,795 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:22:40,928 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:23:41,014 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:24:41,159 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:24:41,173 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:24:41,264 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:24:41,312 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:24:41,421 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:24:41,461 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:24:41,610 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:24:41,645 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:24:41,764 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:24:41,824 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:24:42,000 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:24:42,038 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:24:42,134 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:25:41,275 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:26:41,399 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:27:41,509 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:28:41,605 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:28:41,619 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:28:41,694 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:28:41,729 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:28:41,801 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:28:41,836 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:28:41,959 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:28:41,993 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:28:42,087 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:28:42,123 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:28:42,231 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:28:42,265 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:28:42,344 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:29:41,722 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:30:41,843 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:30:41,871 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 18:30:41,973 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 18:30:42,012 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 18:30:42,133 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 18:30:42,171 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 18:30:42,278 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 18:31:41,977 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:32:42,105 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:32:42,119 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:32:42,201 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:32:42,242 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:32:42,324 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:32:42,363 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:32:42,501 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:32:42,541 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:32:42,650 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:32:42,693 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:32:42,813 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:32:42,853 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:32:42,953 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:33:42,185 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:34:42,325 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:35:42,429 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:36:42,564 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:36:42,577 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:36:42,649 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:36:42,682 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:36:42,760 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:36:42,794 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:36:42,920 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:36:42,956 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:36:43,060 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:36:43,097 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:36:43,201 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:36:43,234 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:36:43,316 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:37:42,702 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:38:42,838 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:39:42,972 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:40:43,121 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:40:43,153 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:40:43,284 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:40:43,347 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:40:43,466 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:40:43,525 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:40:43,697 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:40:43,731 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:40:43,829 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:40:43,876 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:40:44,051 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:40:44,109 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:40:44,240 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:41:43,207 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:42:43,391 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:43:43,530 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:44:43,688 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:44:43,718 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:44:43,830 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:44:43,891 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:44:44,009 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:44:44,070 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:44:44,238 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:44:44,295 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:44:44,439 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:44:44,496 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:44:44,646 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:44:44,704 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:44:44,842 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:45:43,850 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:45:43,894 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 18:45:44,028 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 18:45:44,087 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 18:45:44,289 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 18:45:44,354 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 18:45:44,526 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 18:46:43,984 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:47:44,109 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:48:44,240 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:48:44,269 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:48:44,376 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:48:44,441 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:48:44,577 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:48:44,649 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:48:44,831 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:48:44,887 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:48:45,047 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:48:45,109 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:48:45,299 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:48:45,357 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:48:45,498 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:49:44,371 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:50:44,505 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:51:44,634 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:52:44,795 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:52:44,830 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:52:44,942 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:52:45,002 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:52:45,121 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:52:45,177 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:52:45,344 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:52:45,378 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:52:45,474 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:52:45,529 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:52:45,677 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:52:45,713 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:52:45,863 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 18:53:44,939 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:54:45,039 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:55:45,180 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:56:45,336 DEBUG scheduler Queued events for site my-site
+2023-08-07 18:56:45,366 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 18:56:45,478 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 18:56:45,522 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:56:45,654 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 18:56:45,713 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:56:45,871 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 18:56:45,906 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:56:46,002 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 18:56:46,038 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:56:46,166 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 18:56:46,225 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 18:56:46,365 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 19:00:12,708 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for my-site
+2023-08-07 19:00:12,720 DEBUG scheduler Queued events for site my-site
+2023-08-07 19:00:12,834 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for my-site
+2023-08-07 19:00:12,871 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for my-site
+2023-08-07 19:00:13,036 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for my-site
+2023-08-07 19:00:13,076 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for my-site
+2023-08-07 19:00:13,192 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for my-site
+2023-08-07 19:00:13,227 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for my-site
+2023-08-07 19:00:13,318 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for my-site
+2023-08-07 19:00:13,356 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for my-site
+2023-08-07 19:00:13,460 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for my-site
+2023-08-07 19:00:13,495 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for my-site
+2023-08-07 19:00:13,611 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for my-site
+2023-08-07 19:00:13,647 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for my-site
+2023-08-07 19:00:13,743 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for my-site
+2023-08-07 19:00:13,778 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for my-site
+2023-08-07 19:00:13,870 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for my-site
+2023-08-07 19:00:13,903 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 19:00:13,976 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 19:00:14,009 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 19:00:14,086 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 19:00:14,119 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 19:00:14,235 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 19:00:14,267 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 19:00:14,358 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 19:00:14,390 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 19:00:14,501 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 19:00:14,534 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 19:00:14,612 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 19:00:14,644 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 19:00:14,746 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for my-site
+2023-08-07 19:00:14,782 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 19:00:14,900 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for my-site
+2023-08-07 19:00:14,934 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 19:00:15,045 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for my-site
+2023-08-07 19:01:12,830 DEBUG scheduler Queued events for site my-site
+2023-08-07 19:02:12,930 DEBUG scheduler Queued events for site my-site
+2023-08-07 19:03:13,039 DEBUG scheduler Queued events for site my-site
+2023-08-07 19:04:13,150 DEBUG scheduler Queued events for site my-site
+2023-08-07 19:04:13,168 INFO scheduler Scheduled Job Start: frappe.monitor.flush for my-site
+2023-08-07 19:04:13,239 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for my-site
+2023-08-07 19:04:13,272 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 19:04:13,346 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for my-site
+2023-08-07 19:04:13,383 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 19:04:13,522 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for my-site
+2023-08-07 19:04:13,563 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 19:04:13,668 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for my-site
+2023-08-07 19:04:13,707 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 19:04:13,813 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for my-site
+2023-08-07 19:04:13,847 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for my-site
+2023-08-07 19:04:13,932 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for my-site
+2023-08-07 19:05:13,254 DEBUG scheduler Queued events for site my-site

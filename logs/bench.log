@@ -1,0 +1,81 @@
+2023-08-06 20:07:51,543 DEBUG cd my-bench && python3 -m venv env
+2023-08-06 20:07:53,224 DEBUG cd my-bench && /home/tech4good/my-bench/env/bin/python -m pip install --quiet --upgrade pip
+2023-08-06 20:07:54,327 DEBUG cd my-bench && /home/tech4good/my-bench/env/bin/python -m pip install --quiet wheel
+2023-08-06 20:07:56,213 LOG Getting frappe
+2023-08-06 20:07:56,213 DEBUG cd my-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-13 --depth 1 --origin upstream
+2023-08-06 20:08:01,943 LOG Installing frappe
+2023-08-06 20:08:01,943 DEBUG cd /home/tech4good/my-bench && /home/tech4good/my-bench/env/bin/python -m pip install --quiet --upgrade -e /home/tech4good/my-bench/apps/frappe 
+2023-08-06 20:08:27,770 DEBUG cd /home/tech4good/my-bench/apps/frappe && yarn install
+2023-08-06 20:09:36,350 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-08-06 20:09:36,350 DEBUG cd my-bench && bench build
+2023-08-06 20:09:36,407 INFO /home/tech4good/.local/bin/bench build
+2023-08-06 20:10:09,650 LOG setting up backups
+2023-08-06 20:10:09,656 LOG backups were set up
+2023-08-06 20:10:09,656 INFO Bench my-bench initialized
+2023-08-06 20:10:42,385 INFO /home/tech4good/.local/bin/bench start
+2023-08-06 20:10:42,557 INFO /home/tech4good/.local/bin/bench watch
+2023-08-06 20:10:42,557 INFO /home/tech4good/.local/bin/bench schedule
+2023-08-06 20:10:42,587 INFO /home/tech4good/.local/bin/bench serve --port 8001
+2023-08-06 20:10:42,592 INFO /home/tech4good/.local/bin/bench worker
+2023-08-06 21:25:47,598 INFO /home/tech4good/.local/bin/bench new-site my-site
+2023-08-06 21:26:32,470 INFO /home/tech4good/.local/bin/bench --site my-site install-app erpnext
+2023-08-06 21:26:54,701 INFO /home/tech4good/.local/bin/bench start
+2023-08-06 21:26:54,868 INFO /home/tech4good/.local/bin/bench worker
+2023-08-06 21:26:54,884 INFO /home/tech4good/.local/bin/bench schedule
+2023-08-06 21:26:54,897 INFO /home/tech4good/.local/bin/bench serve --port 8001
+2023-08-06 21:26:54,898 INFO /home/tech4good/.local/bin/bench watch
+2023-08-06 21:31:05,586 INFO /home/tech4good/.local/bin/bench new-app my_app_anand
+2023-08-06 21:31:05,588 LOG creating new app my_app_anand
+2023-08-06 21:31:26,654 LOG Installing my_app_anand
+2023-08-06 21:31:26,655 DEBUG cd /home/tech4good/my-bench && /home/tech4good/my-bench/env/bin/python -m pip install --quiet --upgrade -e /home/tech4good/my-bench/apps/my_app_anand 
+2023-08-06 21:31:27,392 DEBUG bench build --app my_app_anand
+2023-08-06 21:31:27,453 INFO /home/tech4good/.local/bin/bench build --app my_app_anand
+2023-08-06 21:31:28,231 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-08-06 21:31:40,360 INFO /home/tech4good/.local/bin/bench use
+2023-08-06 21:32:56,555 INFO /home/tech4good/.local/bin/bench --site my-site install-app my_app_anand
+2023-08-06 21:33:21,592 INFO /home/tech4good/.local/bin/bench restart
+2023-08-06 21:33:21,595 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-08-06 21:33:48,610 INFO /home/tech4good/.local/bin/bench start
+2023-08-06 21:33:48,776 INFO /home/tech4good/.local/bin/bench serve --port 8001
+2023-08-06 21:33:48,777 INFO /home/tech4good/.local/bin/bench worker
+2023-08-06 21:33:48,807 INFO /home/tech4good/.local/bin/bench watch
+2023-08-06 21:33:48,809 INFO /home/tech4good/.local/bin/bench schedule
+2023-08-06 21:35:17,851 INFO /home/tech4good/.local/bin/bench start
+2023-08-06 21:35:18,015 INFO /home/tech4good/.local/bin/bench schedule
+2023-08-06 21:35:18,017 INFO /home/tech4good/.local/bin/bench worker
+2023-08-06 21:35:18,044 INFO /home/tech4good/.local/bin/bench watch
+2023-08-06 21:35:18,047 INFO /home/tech4good/.local/bin/bench serve --port 8001
+2023-08-06 21:37:07,326 INFO /home/tech4good/.local/bin/bench use
+2023-08-06 22:07:16,436 INFO /home/tech4good/.local/bin/bench use my-site
+2023-08-06 22:07:39,210 INFO /home/tech4good/.local/bin/bench start
+2023-08-06 22:07:39,412 INFO /home/tech4good/.local/bin/bench worker
+2023-08-06 22:07:39,412 INFO /home/tech4good/.local/bin/bench serve --port 8001
+2023-08-06 22:07:39,452 INFO /home/tech4good/.local/bin/bench schedule
+2023-08-06 22:07:39,459 INFO /home/tech4good/.local/bin/bench watch
+2023-08-06 22:12:31,926 INFO /home/tech4good/.local/bin/bench --site my-site install-app erpnext
+2023-08-06 22:17:20,966 INFO /home/tech4good/.local/bin/bench get-app erpnext --branch version-14
+2023-08-06 22:17:21,696 LOG Getting erpnext
+2023-08-06 22:17:21,696 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git --branch version-14 --depth 1 --origin upstream
+2023-08-06 22:18:19,708 LOG Installing erpnext
+2023-08-06 22:18:19,810 DEBUG cd /home/tech4good/my-bench && /home/tech4good/my-bench/env/bin/python -m pip install --quiet --upgrade -e /home/tech4good/my-bench/apps/erpnext 
+2023-08-06 22:18:36,631 DEBUG cd /home/tech4good/my-bench/apps/erpnext && yarn install
+2023-08-06 22:18:37,015 DEBUG bench build --app erpnext
+2023-08-06 22:18:37,081 INFO /home/tech4good/.local/bin/bench build --app erpnext
+2023-08-06 22:18:42,646 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-08-06 22:31:33,853 INFO /home/tech4good/.local/bin/bench start
+2023-08-06 22:31:34,038 INFO /home/tech4good/.local/bin/bench worker
+2023-08-06 22:31:34,041 INFO /home/tech4good/.local/bin/bench serve --port 8001
+2023-08-06 22:31:34,066 INFO /home/tech4good/.local/bin/bench schedule
+2023-08-06 22:31:34,074 INFO /home/tech4good/.local/bin/bench watch
+2023-08-07 09:20:20,978 INFO /home/tech4good/.local/bin/bench start
+2023-08-07 09:20:21,157 INFO /home/tech4good/.local/bin/bench worker
+2023-08-07 09:20:21,169 INFO /home/tech4good/.local/bin/bench watch
+2023-08-07 09:20:21,184 INFO /home/tech4good/.local/bin/bench serve --port 8001
+2023-08-07 09:20:21,185 INFO /home/tech4good/.local/bin/bench schedule
+2023-08-07 11:45:04,276 INFO /home/tech4good/.local/bin/bench start
+2023-08-07 11:45:04,421 INFO /home/tech4good/.local/bin/bench worker
+2023-08-07 11:45:04,429 INFO /home/tech4good/.local/bin/bench schedule
+2023-08-07 11:45:04,447 INFO /home/tech4good/.local/bin/bench serve --port 8001
+2023-08-07 11:45:04,447 INFO /home/tech4good/.local/bin/bench watch
+2023-08-07 12:00:01,320 INFO /home/tech4good/.local/bin/bench --verbose --site all backup
+2023-08-07 18:00:01,376 INFO /home/tech4good/.local/bin/bench --verbose --site all backup
