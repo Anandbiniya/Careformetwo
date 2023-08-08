@@ -1,0 +1,3 @@
+2023-08-08 11:10:41,063 ERROR frappe New Exception collected with id: 2023-08-08 11:10:41.026691-127.0.0.1-02d
+Site: my-site
+Form Dict: {'comment_by': 'Administrator', 'comment_email': 'Administrator', 'comment': 'nice', 'reference_doctype': 'Blog Post', 'reference_name': 'a-tale-of-thousand-stars', 'comment_type': 'Comment', 'route': 'blog/story/a-tale-of-thousand-stars', 'cmd': 'frappe.templates.includes.comments.comments.add_comment'}
