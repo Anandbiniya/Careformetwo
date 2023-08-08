@@ -10,3 +10,9 @@ Backup Summary for my-site at 2023-08-07 18:00:02.033301
 Config  : ./my-site/private/backups/20230807_180001-my-site-site_config_backup.json 94.0B
 Database: ./my-site/private/backups/20230807_180001-my-site-database.sql.gz         265.8KiB
 Backup for Site my-site has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _7b6e5c516e992524 -p********** _7b6e5c516e992524 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./my-site/private/backups/20230808_120002-my-site-database.sql.gz
+
+Backup Summary for my-site at 2023-08-08 12:00:02.583961
+Config  : ./my-site/private/backups/20230808_120002-my-site-site_config_backup.json 94.0B
+Database: ./my-site/private/backups/20230808_120002-my-site-database.sql.gz         278.5KiB
+Backup for Site my-site has been successfully completed
